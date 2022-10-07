@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro repositório Versionado
+ Primeiro projeto Versionado
 
  Repositório inicial criado
 
